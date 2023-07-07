@@ -13,7 +13,7 @@ if __name__ == "__main__":
     while isActivate:
         os.system("clear")
         print('+','-'*55,'+')
-        print("|{:^20}{}{:^24}|".format(' ','Menu Pricipal',' '))
+        print("|{:^20}{}{:^23}|".format(' ','Menu Principal',' '))
         print('+','-'*55,'+')
         print("1. Gestion de clientes")
         print("2. Gestion de producto")
